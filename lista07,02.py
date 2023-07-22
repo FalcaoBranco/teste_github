@@ -1,7 +1,0 @@
-numero01 = float(input('Digite um numero: '))
-numero02 = float(input('Digite outro numero: '))
-numero03 = float(input('Digite um ultimo numero: '))
-maior_valor = max(numero01,numero02,numero03)
-menor_valor = min(numero01,numero02,numero03)
-print(f'O maior valor é {maior_valor}')
-print(f'O menor valor é {menor_valor}')
